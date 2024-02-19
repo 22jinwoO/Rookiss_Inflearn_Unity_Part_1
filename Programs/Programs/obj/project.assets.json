@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\win\\source\\repos\\Programs\\Programs\\Programs.csproj",
+      "projectUniqueName": "D:\\GitHub\\Rookiss_Inflearn_Unity_Part_1\\Programs\\Programs\\Programs.csproj",
       "projectName": "Programs",
-      "projectPath": "C:\\Users\\win\\source\\repos\\Programs\\Programs\\Programs.csproj",
+      "projectPath": "D:\\GitHub\\Rookiss_Inflearn_Unity_Part_1\\Programs\\Programs\\Programs.csproj",
       "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\win\\source\\repos\\Programs\\Programs\\obj\\",
+      "outputPath": "D:\\GitHub\\Rookiss_Inflearn_Unity_Part_1\\Programs\\Programs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config",
